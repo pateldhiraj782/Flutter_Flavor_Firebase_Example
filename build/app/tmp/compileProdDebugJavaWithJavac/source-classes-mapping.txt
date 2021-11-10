@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/flavor_example/MainActivity.java
+ com.example.flavor_example.MainActivity
+com/example/flavor_example/BuildConfig.java
+ com.example.flavor_example.BuildConfig

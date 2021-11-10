@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">242384123946-b0uedvc6n2dr4b9bt2pput38lh25mk8j.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">242384123946</string>
+    <string name="google_api_key" translatable="false">AIzaSyBY88A3ocEehdce2CZtRHm6RGWmwCDJTuw</string>
+    <string name="google_app_id" translatable="false">1:242384123946:android:cbe9fdbb4f72b2cb4cab53</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBY88A3ocEehdce2CZtRHm6RGWmwCDJTuw</string>
+    <string name="google_storage_bucket" translatable="false">flutter-flavour-pro.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-flavour-pro</string>
+</resources>

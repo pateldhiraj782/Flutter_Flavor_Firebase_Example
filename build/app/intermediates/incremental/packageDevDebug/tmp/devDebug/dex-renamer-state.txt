@@ -1,0 +1,10 @@
+#Thu Nov 11 00:18:34 IST 2021
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\Dhiraj_Flutter\\flutter_projects\\flavor_example\\build\\app\\intermediates\\dex\\devDebug\\mergeDexDevDebug\\classes3.dex
+base.1=D\:\\Dhiraj_Flutter\\flutter_projects\\flavor_example\\build\\app\\intermediates\\dex\\devDebug\\mergeDexDevDebug\\classes2.dex
+base.0=D\:\\Dhiraj_Flutter\\flutter_projects\\flavor_example\\build\\app\\intermediates\\dex\\devDebug\\mergeDexDevDebug\\classes.dex
